@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil)
 
-[linkedln]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193/
+[linkedln]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193
 
 
 
