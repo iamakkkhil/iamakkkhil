@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-###Don't count the days, make the days count. 
+### Don't count the days, make the days count. 
 --Muhammad Ali
 
 ---
