@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [<img align="left" alt="iamakkkhil | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iamakkkhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> 
 <br />
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 
 [linkedln]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193
 [twitter]: https://twitter.com/iamakkkhil
+[instagram]: https://www.instagram.com/iamakkkhil/
 
 
 
