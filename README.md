@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I am fond of macro photography.
 
+<br />
 
 ### Don't count the days, make the days count. 
 --Muhammad Ali
