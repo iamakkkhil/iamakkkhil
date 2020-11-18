@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am fond of macro photography.
 
 ### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Linkedln].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[linkedln].svg" />
 
 <br /> 
 
