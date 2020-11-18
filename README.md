@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I am fond of macro photography.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil)
+
+
+
+
+
 
