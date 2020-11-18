@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am fond of macro photography.
 
 ### Connect with me:
-[<img align="left" alt="iamakkkhil | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][linkedln]
+[<img align="left" alt="iamakkkhil | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br /> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil)
 
 [linkedln]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193
+[twitter]: https://twitter.com/iamakkkhil
 
 
 
