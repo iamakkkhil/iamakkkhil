@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I am fond of macro photography.
 
+
+### Don't count the days, make the days count. 
+--Muhammad Ali
+
 ---
 ### Connect with me:
 
@@ -22,11 +26,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="iamakkkhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> 
-
----
-
-### Don't count the days, make the days count. 
---Muhammad Ali
 
 ---
 
