@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193
-[twitter]: https://twitter.com/iamakkkhil
+[twitter]: https://twitter.com/BhaleraoAkhil
 [instagram]: https://www.instagram.com/iamakkkhil/
 
 
