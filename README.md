@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 
-[linkedin]: https://www.linkedin.com/in/akhil-bhalerao-63b47a193
+[linkedin]: https://www.linkedin.com/in/akhilbhalerao
 [twitter]: https://twitter.com/BhaleraoAkhil
 [instagram]: https://www.instagram.com/iamakkkhil/
 
