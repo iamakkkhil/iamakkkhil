@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Deeplearning and Flutter.
+- 🔭 I’m currently a GSSoC'21 Participant.
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Open CV and Python
