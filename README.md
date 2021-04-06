@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <br /> 
 
 ---
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakkkhil&layout=compact&theme=dark)](https://github.com/iamakkkhil/github-readme-stats)
+
+---
 
 
 [linkedin]: https://www.linkedin.com/in/akhilbhalerao
