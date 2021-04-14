@@ -1,4 +1,7 @@
-### Hola, I'm Akhil Bhalerao 👋
+### Hola, I'm Akhil Bhalerao 👋 
+<p align="right">
+   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</p>
 
 <!--
 **iamakkkhil/iamakkkhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +18,8 @@ Here are some ideas to get you started:
 
 <br />
 
-### Don't count the days, make the days count. 
---Muhammad Ali
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>
+<h3 align="center">Don't count the days, make the days count.</h3>
+<p align="center">~ Muhammad Ali</p>
   
 ---
 
@@ -34,16 +33,10 @@ Here are some ideas to get you started:
 </p> -->
 
 <br /> 
-
+<br />
 
 
 <h2 align="center">📈 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark" alt="harshcasper" />
 </p>
----
-
-
-
-
-
