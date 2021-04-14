@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 ### Don't count the days, make the days count. 
 --Muhammad Ali
 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</p>
+  
 ---
 
 <h2 align="center">📫 Reach out to me on</h2>
@@ -31,9 +35,12 @@ Here are some ideas to get you started:
 
 <br /> 
 
----
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakkkhil&layout=compact&theme=dark)](https://github.com/iamakkkhil/github-readme-stats)
 
+
+<h2 align="center">📈 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark" alt="harshcasper" />
+</p>
 ---
 
 
