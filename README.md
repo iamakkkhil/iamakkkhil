@@ -1,13 +1,4 @@
-### Hola, I'm Akhil Bhalerao 👋 
-<p align="right">
-   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>
-
-<!--
-**iamakkkhil/iamakkkhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<h2 align="center">Hola, I'm Akhil Bhalerao 👋 </h2>
 
 - 🔭 I’m currently a GSSoC'21 Participant.
 - 🌱 I’m currently learning Machine learning and Open CV
@@ -37,5 +28,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">📈 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark" alt="harshcasper" />
+   <img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark" alt="harshcasper" />
+</p>
+
+<p align="right">
+   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>
