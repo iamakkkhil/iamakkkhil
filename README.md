@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 <h2 align="center">Hola, I'm Akhil Bhalerao 👋 </h2>
 
 - 🔭 I’m currently a GSSoC'21 Participant.
