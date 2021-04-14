@@ -1,4 +1,5 @@
 <h2 align="center">Hola, I'm Akhil Bhalerao 👋 </h2>
+<br>
 
 - 🔭 I’m currently a GSSoC'21 Participant.
 - 🌱 I’m currently learning Machine learning and Open CV
@@ -31,6 +32,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark" alt="harshcasper" />
 </p>
 
-<p align="right">
+<br> 
+
+<p align="center">
    <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>
