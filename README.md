@@ -1,6 +1,8 @@
 <h1 align="left">Hola, I'm Akhil Bhalerao 👋 </h1>
 <img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 
+<br>
+
 - 🔭 I’m currently a GSSoC'21 Participant.
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
