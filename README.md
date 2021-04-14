@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am fond of macro photography.
 
 <br />
-
+<br>
 <h3 align="center">Don't count the days, make the days count.</h3>
 <p align="center">~ Muhammad Ali</p>
 
