@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 --Muhammad Ali
 
 ---
-### Connect with me:
 
-[<img align="left" alt="iamakkkhil | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamakkkhil | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamakkkhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akhilbhalerao"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/BhaleraoAkhil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akhilbhalerao@gmail.com?subject=Hello%20Akhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/iamakkkhil/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://www.iamakkkhil.github.io/"><img src="https://img.shields.io/static/v1?label=AB&message=Portfolio&color=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
 
 <br /> 
 
@@ -31,11 +35,6 @@ Here are some ideas to get you started:
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakkkhil&layout=compact&theme=dark)](https://github.com/iamakkkhil/github-readme-stats)
 
 ---
-
-
-[linkedin]: https://www.linkedin.com/in/akhilbhalerao
-[twitter]: https://twitter.com/BhaleraoAkhil
-[instagram]: https://www.instagram.com/iamakkkhil/
 
 
 
