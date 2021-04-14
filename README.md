@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Don't count the days, make the days count.</h3>
 <p align="center">~ Muhammad Ali</p>
-  
----
+
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
