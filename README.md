@@ -2,14 +2,15 @@
 <img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 
 <br>
-
+<h3>
+  
 - 🔭 I’m currently a GSSoC'21 Participant.
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Open CV and Python
 - 📫 How to reach me: iamakhil1408@gmail.com
 - ⚡ Fun fact: I am fond of macro photography.
-
+</h3>
 <br />
 <br>
 <h3 align="center">Don't count the days, make the days count.</h3>
