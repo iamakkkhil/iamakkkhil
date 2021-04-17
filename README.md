@@ -5,7 +5,7 @@
 <h3>
   
 - 🔭 I’m currently a GSSoC'21 Participant.
-- 🌱 I’m currently learning Machine learning and Open CV
+- 🌱 I’m currently learning ML and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Open CV and Python
 - 📫 How to reach me: iamakhil1408@gmail.com
