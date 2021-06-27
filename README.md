@@ -24,8 +24,8 @@
   <a target="_blank"href="https://twitter.com/BhaleraoAkhil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:akhilbhalerao@gmail.com?subject=Hello%20Akhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/iamakkkhil/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.iamakkkhil.github.io/"><img src="https://img.shields.io/static/v1?label=AB&message=Portfolio&color=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
+  <a href="https://akhilbhalerao.me/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> </a>
+</p>
 
 <br /> 
 <br />
