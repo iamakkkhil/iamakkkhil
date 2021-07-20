@@ -14,8 +14,14 @@
 </h3>
 <br />
 <br>
-<h3 align="center">Don't count the days, make the days count.</h3>
-<p align="center">~ Muhammad Ali</p>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
+</div>
+
+
+<!-- <h3 align="center">Don't count the days, make the days count.</h3>
+<p align="center">~ Muhammad Ali</p> -->
 
 
 <h2 align="center">📫 Reach out to me on</h2>
@@ -34,7 +40,6 @@
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
   <img src="https://github.com/iamakkkhil/iamakkkhil/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 <h2 align="center">📈 Github Statistics </h2>
 <p align="center">
