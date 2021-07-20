@@ -30,10 +30,11 @@
 <br /> 
 <br />
 
-<p align="center">
+<div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
   <img src="https://github.com/iamakkkhil/iamakkkhil/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
+
 
 <h2 align="center">📈 Github Statistics </h2>
 <p align="center">
