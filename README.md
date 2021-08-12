@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Akhil Bhalerao 👋 </h1>
+<h1 align="center">Hallo, I'm Akhil Bhalerao 👋 </h1>
 <img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 
 <br>
