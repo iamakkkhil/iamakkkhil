@@ -4,7 +4,7 @@
 <br>
 <h3>
   
-- 🔭 I’m currently a Mentor at Let's Grow More and Maintainer of RottenScripts.
+- 🔭 I’m currently a Mentor and Maintainer of [RottenScripts](https://github.com/HarshCasper/Rotten-Scripts).
 - 🌱 I’m currently learning ML and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Open CV and Python
